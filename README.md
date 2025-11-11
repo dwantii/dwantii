@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Dwantii
 
-<!--
-**dwantii/dwantii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack Developer** passionate about technology and innovation.  
+Currently focused on building modern web applications using **Node.js, React, TypeScript, and Docker**.
 
-Here are some ideas to get you started:
+💼 I'm looking for opportunities to apply my knowledge and keep learning in collaborative and innovative environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript  
+- **Backend:** Node.js, Express, MySQL, Docker  
+- **Version Control:** Git & GitHub  
+- **Others:** Redis, Nginx, Basic Linux  
+
+---
+
+## 🚀 Featured Projects
+
+### 🗂️ [Notary Dashboard](https://github.com/dwantii/notary-dashboard)
+A fullstack application with authentication, document CRUD, and MySQL integration.  
+**Stack:** Node.js, Express, React, Docker, MySQL.
+
+### 🔍 [Search API](https://github.com/dwantii/search-api)
+A Node.js API using Redis and Elasticsearch for fast searching.  
+**Stack:** Node.js, Redis, Elasticsearch, Docker.
+
+### 💼 [Personal Portfolio](https://github.com/dwantii/portfolio)
+My personal website built with Next.js and TailwindCSS.
+
+---
+
+📫 **Contact:** goodwin.zac.pro@gmail.com  
+🌍 **LinkedIn:** [linkedin.com/in/zacharie-goodwin-423632395/](https://linkedin.com/in/zacharie-goodwin-423632395/)
